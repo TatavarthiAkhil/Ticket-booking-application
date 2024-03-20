@@ -1,10 +1,11 @@
-package com.capg.bookstore.service;
+package com.cap.ticketbooking.service;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.capg.bookstore.entity.Book;
-import com.capg.bookstore.repository.BookRepository;
+
+import com.cap.ticketbooking.entity.Book;
+import com.cap.ticketbooking.repository.BookRepository;
 
 
 

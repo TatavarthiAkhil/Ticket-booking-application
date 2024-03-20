@@ -1,4 +1,4 @@
-package com.capg.bookstore.entity;
+package com.cap.ticketbooking.entity;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
